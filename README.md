@@ -1,6 +1,6 @@
 # Temperature Converter
 
-![Temperature Converter](https://github.com/nitish-niraj/temperature-converter/blob/main/project10.jpg)
+![Temperature Converter](https://github.com/nitish-niraj/temperature-converter/blob/main/Temperature%20Converter%20-%20Person%202%20-%20Microsoft_%20Edge%202023-07-10%2013-45-42.gif)
 
 The Temperature Converter is a simple web application that allows users to convert temperatures between Celsius and Fahrenheit. This project was created as a fun and educational way to practice frontend web development skills using HTML, CSS, and JavaScript.
 
@@ -23,7 +23,6 @@ The Temperature Converter is a simple web application that allows users to conve
 
 You can check out the live demo of the Temperature Converter at: [CLICK HERE](https://nitish-niraj.github.io/Bharatintern-temperature-converter/)
 
-![Temperature Converter Demo](https://github.com/nitish-niraj/temperature-converter/blob/main/Temperature%20Converter%20-%20Person%202%20-%20Microsoft_%20Edge%202023-07-10%2013-45-42.gif)
 
 ## Installation
 
